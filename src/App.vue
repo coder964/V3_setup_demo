@@ -1,5 +1,4 @@
 <script setup> 
-  // import highScore from "./data/high_score.json"
   import { ref } from "vue"
   import RoomArea from "./components/RoomArea.vue";
 
